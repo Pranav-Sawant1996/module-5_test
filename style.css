@@ -17,6 +17,9 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+.container-main{
+    height: 90vh;
+}
 .section-1 {
  
   display: flex;
@@ -120,8 +123,7 @@ font-size: 22px;
 /* section-3 */
 footer{
     background-color: black;
-height: 65px;
-margin-top: 109px;
+height: 10vh;
 display: flex;
 justify-content: space-around;
 align-items: center;
