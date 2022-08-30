@@ -11,7 +11,7 @@
 body{
     height: 100vh;
     width: 100%;
-    background-image: url(/module5_Project/car-bg.jpg);
+    background-image: url(car-bg.jpg);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
